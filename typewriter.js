@@ -12,3 +12,6 @@ const typewriter = function(sentence) {
 };
 
 typewriter(sentence);
+
+
+// worked on it with @cnguyen50
